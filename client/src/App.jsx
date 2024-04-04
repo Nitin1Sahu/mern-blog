@@ -4,8 +4,8 @@ import Header from './components/Header/Header'
 const App = () => {
   return (
     <>
-    <Header />
-    <Outlet />
+      <Header />
+      <Outlet />
     </>
   )
 }
